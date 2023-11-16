@@ -14,7 +14,7 @@ To enhance the productivity and problem-solving capabilities by providing real-t
 To incorporate advanced AI and NLP techniques to make the chatbot intelligent and capable of handling complex problems.
 To provide a user-friendly and interactive interface for developers to interact with the chatbot.
 
--Features:
+3.Features:
 Greeting and introduction: The chatbot can greet users and introduce itself.
 Question answering: The chatbot can answer simple questions about courses information.
 Customer support: The chatbot can provide customer support by answering questions about problems, or by providing instructions on how to use website services.
@@ -22,17 +22,17 @@ Task completion: The chatbot can perform basic tasks, such as booking course, ta
 
 
 
--Enlarging the Idea:
+4.Enlarging the Idea:
 
 Add more features: The chatbot can be enhanced by adding more features, such as personalization, transactional capabilities, and multilingual support.
 Integrate with other systems: The chatbot can be integrated with other systems, such as your CRM or ERP system, to provide more comprehensive customer support or to perform more complex tasks.
 Deploy the chatbot on multiple channels: The chatbot can be deployed on multiple channels, such as your website, messaging apps, and social media, to reach more users.
 
-Timeline and Budget
+5.Timeline and Budget
 
 a simple chatbot with easy features can be developed in a few weeks with a small budget.
 
--. Project Deliverables:
+6.Project Deliverables:
 The project will deliver the following:
 
 A functional chatbot for course website.
@@ -40,6 +40,6 @@ A web-based interface for interaction.
 Documentation and user guides.	
 make the chatbot more intelligent and customized to specific problems.
 
-Conclusion
+7.Conclusion
 
 This project proposes to develop a chatbot with easy features that can be made with small effort. The chatbot will be able to answer simple questions, provide customer support, and perform basic tasks. The chatbot can be enlarged and enhanced by adding more features, integrating with other systems, and deploying it on multiple channels.
